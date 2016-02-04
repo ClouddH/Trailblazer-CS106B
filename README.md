@@ -6,6 +6,9 @@ Project specification : http://web.stanford.edu/class/archive/cs/cs106b/cs106b.1
 Third party demo from youtube :  https://www.youtube.com/watch?v=QqFTH5lHj5w
 Official demo also available under demo.app file 
 
+Main source code is in   Trailblazer.cpp file .
+
+
 My notes :
 In this assignment , I practiced with using Dijikastra's Algorithm to find the shortest path between two nodes in a graph 
 structure.
